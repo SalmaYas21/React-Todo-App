@@ -106,6 +106,13 @@ h1 {
   width: 90%;
 }
 
+.todo-text{
+  width: 90%;
+  margin: 0;
+  padding: 0;
+  text-align: start;
+}
+
 .todo-row:nth-child(4n + 1) {
   background: linear-gradient(
     90deg,
